@@ -6,3 +6,5 @@ Binary diffing is a technique to reverse-engineer patches released by software v
 
 - License: New BSD License
 - [Blog](http://mattoh.wordpress.com/)
+- [Google groups](http://groups.google.com/group/darungrim)
+- [Releases](https://github.com/ohjeongwook/DarunGrim/releases)
